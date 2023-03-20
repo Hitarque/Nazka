@@ -1,2 +1,4 @@
 # Nazka
-Open mapping lib in c++
+## Licences
+## How install me?
+## Common errores
